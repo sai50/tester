@@ -5,9 +5,9 @@ public class App
   public static void main(String[] args) {
    
      
-     boolean blnStatus = false;
+     boolean blnStatus = true;
      
      if(blnStatus)
-       System.out.println("Status is false");
+       System.out.println("Status is true");
   }
 }
